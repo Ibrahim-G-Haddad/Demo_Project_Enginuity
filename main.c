@@ -2,15 +2,12 @@ int motorPin = 3;
 
 void setup(){
     
-    pinMode(motorPin, OUTPUT); 
-    
+    pinMode(motorPin, OUTPUT);  
 }
 
 void loop(){
-
 	motorAcceleration();
 }
-
 
 void motorAcceleration(){
   int delayTime = 50; //milliseconds between each speed step
