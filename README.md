@@ -1,3 +1,18 @@
+# TABLE OF CONTENTS
+* [PROJECT DESCRIPTION](#project-description)
+    * [INTRODUCTION](#introduction)
+    * [PROJECT TEAM](#project-team)
+    * [PROJECT PLAN](#project-plan)
+    * [HIGH LEVEL SYSTEM DESCRIPTION](#high-level-system-description)
+* [TECHNICAL INFORMATION](#technical-information)
+  * [REQUIREMENTS](#requirements)
+  * [CHALLENGES](#challenges)
+  * [PROGRAM SPECIFICATIONS](#program-specifications)
+  * [TECHNICAL DOCUMENTATION](#technical-documentation)
+* [PROJECT STATUS](#project-status)
+  * [CURRENT STATUS](#current-status)
+  * [NEXT STEPS](#next-steps)
+         
 # PROJECT DESCRIPTION
 ## INTRODUCTION
 Insert a brief overview of the project here. This section should provide context for what the project is about, what problem it aims to solve, and what value it provides.
