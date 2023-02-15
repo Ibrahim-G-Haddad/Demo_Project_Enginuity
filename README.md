@@ -78,7 +78,3 @@ List any to-do items that need to be completed, and provide a timeline for when 
 
 ### To-Do-List
 List any to-do items that need to be completed, and provide a timeline for when each will be done.
-
-![obsedian logo](Obsedian.png)
-
-
