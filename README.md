@@ -79,6 +79,6 @@ List any to-do items that need to be completed, and provide a timeline for when 
 ### To-Do-List
 List any to-do items that need to be completed, and provide a timeline for when each will be done.
 
-![[Pasted image 20230215110542.png]]
+![obsedian logo](Obsedian.png)
 
 
