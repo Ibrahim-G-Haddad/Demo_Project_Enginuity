@@ -24,4 +24,5 @@ void motorAcceleration(){
     analogWrite(motorPin, i);   //sets the new speed
     delay(delayTime);           // waits for delayTime milliseconds
   }
+//Test//////
 }
